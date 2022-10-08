@@ -1,8 +1,10 @@
 # 738-Hours-Uyghur-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/46
+
 
 ## Description
 It collects 2,058 people from the Uighur community, with a balanced ratio of men and women. The recording contents are 300,000 Uighur spoken sentences, and the recording environment is quiet indoor. All sentences were manually and accurately transcribed and annotated with noise signs.
+
+For more details, please refer to the link: https://bit.ly/3xNLnGD
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,7 @@ text
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
