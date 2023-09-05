@@ -4,7 +4,8 @@
 ## Description
 It collects 2,058 people from the Uighur community, with a balanced ratio of men and women. The recording contents are 300,000 Uighur spoken sentences, and the recording environment is quiet indoor. All sentences were manually and accurately transcribed and annotated with noise signs.
 
-For more details, please refer to the link: https://bit.ly/3xNLnGD
+For more details, please refer to the link: https://www.nexdata.ai/datasets/46?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
